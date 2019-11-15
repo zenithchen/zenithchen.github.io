@@ -1,38 +1,26 @@
-## Portfolio
+## Matthew's Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Philly Tax Model](/content/Phl_tax.html)
+<img src="images/Phl_tax_thumb.jpg?raw=true"/>
 
 ---
 [Bayesian Fancy Stuff](/content/Bayes_poster.pdf)
 <img src="images/Bayes_poster_thumb.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[KLRFome - Spatial Model](https://github.com/mrecos/klrfome)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[AI!!!!](/sample_page.md)
+<img src="images/Sample_page1_thumb.jpg?raw=true"/>
 
 ---
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
