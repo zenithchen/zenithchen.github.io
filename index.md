@@ -8,14 +8,20 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bayesian Fancy Stuff](/content/Bayes_poster.pdf)
+<img src="images/Bayes_poster_thumb.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+[Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 
 ### Category Name 2
 
