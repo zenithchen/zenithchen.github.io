@@ -12,7 +12,7 @@ We also designed a website called SmartOccupancy with 3 main functions to help t
 
 ---
 [Space-Time Prediction of Bike Share Demand, Philadelphia](/content/Zirui_Chen_Bikeshare_Predict.html)
-<img src="images/trainoccupancy.png?raw=true"/>
+<img src="images/bikeshare.png?raw=true"/>
 
 ---
 [KLRFome - Spatial Model](https://github.com/mrecos/klrfome)
