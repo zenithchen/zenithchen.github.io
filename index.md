@@ -4,7 +4,7 @@
 ### Data Analysis 
 
 [Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
-<img src="images/Phl_tax_thumb.jpg?raw=true"/>
+<img src="images/EA-spatial network.png?raw=true"/>
 
 ---
 [Bayesian Fancy Stuff](/content/Bayes_poster.pdf)
