@@ -5,9 +5,14 @@
 
 [Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
 
-In this project, we analyzed the spatial network of the trains to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy but ensure generalizability and then built multinomial logit models to spatially predict the occupancy levels of Belgian 
+In this project, we built multinomial logit models to spatially predict the occupancy levels of Belgian. Specifically, the spatial network of the trains was analyzed to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy but ensure generalizability.Cost-benefit analysis was used to adjust the model. 
+The final model has a relatively high total accuracy of 0.7 and a satisfying generalizability.
 
 <img src="images/EA-spatial network.png?raw=true"/>
+
+We also designed a website called SmartOccupancy with 3 main functions to help transportation planners rebalance train services provision and maximize the profit. <a href="https://www.youtube.com/watch?v=i8b7DR42uhw">Check out the video here</a>
+
+<img src="images/trainoccupancy.png?raw=true"/>
 
 ---
 [Bayesian Fancy Stuff](/content/Bayes_poster.pdf)
