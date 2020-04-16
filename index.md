@@ -11,8 +11,8 @@ We also designed a website called SmartOccupancy with 3 main functions to help t
 <img src="images/trainoccupancy.png?raw=true"/>
 
 ---
-[Bayesian Fancy Stuff](/content/Bayes_poster.pdf)
-<img src="images/Bayes_poster_thumb.jpg?raw=true"/>
+[Space-Time Prediction of Bike Share Demand, Philadelphia](/content/Zirui_Chen_Bikeshare_Predict.html)
+<img src="images/trainoccupancy.png?raw=true"/>
 
 ---
 [KLRFome - Spatial Model](https://github.com/mrecos/klrfome)
