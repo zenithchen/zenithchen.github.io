@@ -4,6 +4,9 @@
 ### Data Analysis 
 
 [Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
+
+In this project, we analyzed the spatial network of the trains to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy but ensure generalizability and then built multinomial logit models to spatially predict the occupancy levels of Belgian 
+
 <img src="images/EA-spatial network.png?raw=true"/>
 
 ---
