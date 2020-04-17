@@ -4,6 +4,7 @@
 ### Data Analysis 
 
 [Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
+
 In this project, we built multinomial logit models to spatially predict the occupancy levels of Belgian. Specifically, the spatial network of the trains was analyzed to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy but ensure generalizability.Cost-benefit analysis was used to adjust the model. 
 The final model has a relatively high total accuracy of 0.7 and a satisfying generalizability.
 
@@ -15,6 +16,10 @@ We also designed a website called SmartOccupancy with 3 main functions to help t
 
 ---
 [Space-Time Prediction of Bike Share Demand, Philadelphia](/content/Zirui_Chen_Bikeshare_Predict.html)
+
+In this project, I use the Indego bike share data along with other related dataset including weather and census data. OLS models were trained to predict bike-share demand in space-time.
+The final model has relatively low MAE. The generalizability of the model was also analyzed.
+
 <img src="images/bikeshare.png?raw=true"/>
 
 ---
