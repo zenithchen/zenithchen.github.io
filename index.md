@@ -28,11 +28,6 @@ The final model has relatively low MAE. The generalizability of the model was al
 
 ---
 
-[AI!!!!](/sample_page.md)
-<img src="images/Sample_page1_thumb.jpg?raw=true"/>
-
----
-
 
 
 ---
