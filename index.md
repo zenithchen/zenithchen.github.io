@@ -23,8 +23,8 @@ The final model has relatively low MAE. The generalizability of the model was al
 <img src="images/bikeshare.png?raw=true"/>
 
 ---
-[KLRFome - Spatial Model](https://github.com/mrecos/klrfome)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#[KLRFome - Spatial Model](https://github.com/mrecos/klrfome)
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
