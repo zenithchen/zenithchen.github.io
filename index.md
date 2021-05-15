@@ -1,8 +1,23 @@
 ## Zirui's Portfolio
 ---
+### Machine Learning With Python 
 
+[Understand Travel Mode Choice, USA](https://hqiao97.github.io/travelmode/)
+
+The project is to understand travel mode choice in the U.S. through using the 2017 National Household Travel Survey and vairous data visualziation techniques. Besides, we used different machine learning methods to predict travel mode choice along with socio-economic characteristics, trip characteristics and land-use characteristics. 
+
+<img src="images/mode-share-app2.png?raw=true"/>
+
+---
 ### Machine Learning With R 
 
+[A Fire Response Situational Awareness API, Philadelphia](/content/Fire_Response_Situational_Awareness_API.html)
+
+The project is intended to present the methodology of an analysis of property fire risk in Philadelphia and an API tool that aims to improve the fire department’s situational awareness. This new API tool can provide real-time information and assessment for all parcels in the city. 
+
+<img src="images/fire_api.png?raw=true"/>
+
+---
 [Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
 
 In this project, we built multinomial logit models to spatially predict the occupancy levels of Belgian. Specifically, the spatial network of the trains was analyzed to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy but ensure generalizability.Cost-benefit analysis was used to adjust the model. 
