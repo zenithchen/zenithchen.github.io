@@ -1,4 +1,3 @@
-## Got to my Portfolio
+## Click the link below to access my portfolio:
 
-* because it is great
-* github.io
+* https://zenithchen.github.io/
