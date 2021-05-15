@@ -1,7 +1,7 @@
 ## Zirui's Portfolio
 ---
 
-### Data Analysis 
+### Machine Learning With R 
 
 [Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
 
