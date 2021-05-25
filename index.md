@@ -38,6 +38,17 @@ The final model has relatively low MAE. The generalizability of the model was al
 <img src="images/bikeshare.png?raw=true"/>
 
 ---
+### Planning Workshop: Oregon Avenue East Neighborhood Plan 
+
+[Existing Conditions, Transportation](/content/transportation existing condition.pdf)
+
+[Alternatives,_Connect_& Destination](/content/Alternatives_Connect_Destination.pdf)
+
+[Strategies, Lowline](/content/strategies_lowline.pdf)
+
+<img src="images/existing condition.png?raw=true"/>
+
+<img src="images/lowline.png?raw=true"/>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
