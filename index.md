@@ -38,6 +38,15 @@ The final model has relatively low MAE. The generalizability of the model was al
 <img src="images/bikeshare.png?raw=true"/>
 
 ---
+### Environmental Spatial Analysis 
+
+[Analysis of Urban Sprawl in Guangdong Province, China](/content/Analysis of Urban Sprawl in Guangdong Province, China.pdf)
+
+This project is going to analyze the characteristics and patterns of urban sprawl in Guangdong province, China. The change of urban built-up area, vegetation(NDVI), population density, and heat island effect, which are associated with urban sprawl phenomenon, are examined in the project. To analyze the urban sprawl phenomenon, one important step is to identify the extent of urban built-up area. Night light data is going to be used here to extract the urban built-up area. To understand the characteristics and patterns of urban sprawl, the change of vegetation, population density, and heat island effect will be analyzed. In this part, I will use Linear Regression to analyze multi-temporal data and understand the trends of each factor.
+
+<img src="images/NDVI.png?raw=true"/>
+
+---
 ### Planning Workshop: Oregon Avenue East Neighborhood Plan 
 
 [Existing Conditions, Transportation](/content/transportation existing condition.pdf)
