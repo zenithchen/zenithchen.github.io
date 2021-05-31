@@ -15,9 +15,9 @@ The project is to understand travel mode choice in the U.S. through using the 20
 
 [A Fire Response Situational Awareness API, Philadelphia](/content/Fire_Response_Situational_Awareness_API.html)
 
-#### Skills used: R, Logistic Regression, Random Forest
+#### Skills used: R, Logistic Regression, Random Forest, API
 
-The project is intended to present the methodology of an analysis of property fire risk in Philadelphia and an API tool that aims to improve the fire department’s situational awareness. This new API tool can provide real-time information and assessment for all parcels in the city. 
+The project is intended to present the methodology of an analysis of property fire risk in Philadelphia and an API tool that aims to improve the fire department’s situational awareness. This new API tool can provide real-time information and assessment for all parcels in the city. We also built an web application using the API. [Click here to check out the app!](/cpln692_final/index.html)
 
 <img src="images/fire_api.png?raw=true"/>
 
@@ -59,7 +59,7 @@ This project is going to analyze the characteristics and patterns of urban spraw
 
 #### Skills used: ArcGIS, Illustrator, InDesign
 
-[Existing Conditions, Transportation](/content/transportation existing condition.pdf)
+[Existing Conditions, Transportation](/content/transportation existing condition 2.pdf)
 
 [Alternatives,_Connect_& Destination](/content/Alternatives_Connect_Destination.pdf)
 
