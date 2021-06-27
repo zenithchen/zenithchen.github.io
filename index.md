@@ -54,6 +54,14 @@ This project is going to analyze the characteristics and patterns of urban spraw
 
 <img src="images/NDVI.png?raw=true"/>
 
+[Urban Growth Modeling for Los Angeles Metropolitan Statistical Area, LA](/content/Urban Growth Modeling for LA MSA.pdf)
+
+#### Skills used: R, Urban Growth Model
+
+As the regional population continues to grow in Los Angeles, it’s crucial for the local organization to forecast the urban growth and plan for future development. We are going to provide a prediction model which is suitable for forecasting both the demand and supply side change. Land cover, transportation, and population data is used to ensure the model is sensitive to a diverse range of variables.
+
+<img src="images/Urban Growth Modeling for LA MSA.jpg?raw=true"/>
+
 ---
 ### Planning Workshop: Oregon Avenue East Neighborhood Plan 
 
