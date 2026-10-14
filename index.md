@@ -62,20 +62,5 @@ As the regional population continues to grow in Los Angeles, it’s crucial for 
 
 <img src="images/Urban Growth Modeling for LA MSA.jpg?raw=true"/>
 
----
-### Planning Workshop: Oregon Avenue East Neighborhood Plan 
-
-#### Skills used: ArcGIS, Illustrator, InDesign
-
-[Existing Conditions, Transportation](/content/transportation existing condition 2.pdf)
-
-[Alternatives,_Connect_& Destination](/content/Alternatives_Connect_Destination.pdf)
-
-[Strategies, Lowline](/content/strategies_lowline.pdf)
-
-<img src="images/existing condition.png?raw=true"/>
-
-<img src="images/lowline.png?raw=true"/>
-
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
