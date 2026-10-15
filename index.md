@@ -10,9 +10,10 @@
 
 This project investigates how vision-language models can transform long, untrimmed egocentric cooking videos into structured representations of cooking processes. I developed a VLM-based evaluation pipeline for fine-grained action recognition, while ongoing research links action sequences with object identity, location, and physical state to study causal provenance and refine uncertain predictions. 
 
-<img src="images/mode-share-app2.png?raw=true"/>
-
-[Report](/content/occupancy_prediction.html)
+<img
+  src="{{ '/images/egocentric_cooking_video.gif' | relative_url }}"
+  alt="Egocentric cooking video analysis"
+  style="width: 600px; max-width: 100%; height: auto;">
 
 ---
 ### SkinSense: AI-Assisted Skin Lesion Documentation and Tracking
@@ -28,7 +29,7 @@ We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting a
 
 <img src="images/mode-share-app2.png?raw=true"/>
 
-[Report](/content/occupancy_prediction.html)
+[View Report](/content/SkinSense_Final_Report.pdf)
 
 ---
 ###  Urban Informal Settlement Detection 
@@ -44,7 +45,7 @@ We developed a machine-learning framework that combines Sentinel-2 imagery with 
 
 <img src="images/mode-share-app2.png?raw=true"/>
 
-[Report](/content/occupancy_prediction.html)
+[View Report](/content/Detecting Urban Informal Settlements with Remote Sensing_Final.pdf)
 
 ---
 ### Fire Response Situational Awareness Platform
@@ -55,28 +56,31 @@ We developed a machine-learning framework that combines Sentinel-2 imagery with 
   <span class="project-tag">Geospatial Data</span>
 </div>
 
-The project is intended to present the methodology of an analysis of property fire risk in Philadelphia and an API tool that aims to improve the fire department’s situational awareness. This new API tool can provide real-time information and assessment for all parcels in the city. We also built an web application using the API. [Click here to check out the app!](/cpln692_final/index.html)
+The project is intended to present the methodology for analyzing property fire risk in Philadelphia and an API tool that aims to improve the fire department’s situational awareness. This new API tool can provide real-time information and assessments for all parcels in the city. We also built a web application using the API. [Click here to check out the app!](/cpln692_final/index.html)
 
 <img src="images/fire_api.png?raw=true"/>
 
-[Report](/content/Fire_Response_Situational_Awareness_API.html)
+[View Report](/content/Fire_Response_Situational_Awareness_API.html)
 
 ---
-### Train occupancy prediction
+### Train Occupancy Prediction
 
-[Train occupancy prediction, Belgium](/content/occupancy_prediction.html)
+<div class="project-tags">
+  <span class="project-tag">R</span>
+  <span class="project-tag">Multinomial Logistic Regression</span>
+  <span class="project-tag">Geospatial Data</span>
+</div>
 
-#### Skills used: R, Multinomial Logistic Regression, App Wireframe, Profit Optimization
-
-In this project, we built multinomial logit models to spatially predict the occupancy levels of Belgian. Specifically, the spatial network of the trains was analyzed to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy but ensure generalizability.Cost-benefit analysis was used to adjust the model. 
-The final model has a relatively high total accuracy of 0.7 and a satisfying generalizability.
+In this project, we built multinomial logit models to spatially predict the occupancy levels of Belgian. Specifically, the spatial network of the trains was analyzed to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy while ensuring generalizability. Cost-benefit analysis was used to adjust the model. 
+The final model has a relatively high total accuracy of 0.8 and a satisfying generalizability.
 
 <img src="images/EA-spatial network.png?raw=true"/>
 
-We also designed a website called SmartOccupancy with 3 main functions to help transportation planners rebalance train services provision and maximize the profit. <a href="https://www.youtube.com/watch?v=i8b7DR42uhw">Check out the video here</a>
+We also designed a website called SmartOccupancy with 3 main functions to help transportation planners rebalance train service provision and maximize profit. <a href="https://www.youtube.com/watch?v=i8b7DR42uhw">Check out the video here</a>
 
 <img src="images/trainoccupancy.png?raw=true"/>
 
+[View Code](/content/occupancy_prediction.html)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
