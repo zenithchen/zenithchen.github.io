@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+
+/* ========================================
+   Project skill tags
+   ======================================== */
+
 .project-tags {
   display: flex;
   flex-wrap: wrap;
@@ -22,45 +27,156 @@
   white-space: nowrap;
 }
 
-header img {
-  display: block;
-  width: 160px;
-  height: 160px;
-  margin: 0 auto 24px;
-  border-radius: 50%;
-  object-fit: cover;
-  object-position: center 30%;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
+
+/* ========================================
+   Profile name
+   ======================================== */
+
+header h1 {
+  margin-bottom: 26px;
+  text-align: center;
 }
 
-header p {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  color: #66707a;
-}
-
-.profile-focus {
-  display: block;
-  color: #303846;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-}
-
-.profile-education {
-  display: block;
-  margin-top: 18px;
-  color: #66707a;
-  font-weight: 400;
-}
-
-.profile-link {
-  display: inline-block;
-  margin-top: 18px;
-  font-weight: 600;
+header h1 a {
+  color: #3f617f;
   text-decoration: none;
 }
 
-.profile-link:hover {
-  text-decoration: underline;
+header h1 a:hover {
+  color: #344f69;
+  text-decoration: none;
+}
+
+
+/* ========================================
+   Profile photo
+   ======================================== */
+
+header img {
+  display: block;
+  width: 210px;
+  height: 210px;
+  margin: 0 auto 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 30%;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+
+/* ========================================
+   Profile description
+   ======================================== */
+
+header p {
+  color: #6b7480;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+
+/* Research interests */
+
+.profile-focus {
+  display: block;
+  color: #626c78;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+
+/* Education */
+
+.profile-education {
+  display: block;
+  margin-top: 20px;
+  color: #6b7480;
+  font-weight: 400;
+}
+
+
+/* ========================================
+   LinkedIn, GitHub and Email buttons
+   ======================================== */
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 9px;
+  margin-top: 24px;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+
+  padding: 7px 10px;
+  border: 1px solid #9aa3ad;
+  border-radius: 7px;
+
+  background-color: transparent;
+  color: #66717e;
+
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration: none;
+
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    background-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.social-links a:hover {
+  color: #344f69;
+  border-color: #66717e;
+  background-color: #f6f8fa;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.social-links a:focus-visible {
+  outline: 2px solid #3f617f;
+  outline-offset: 2px;
+}
+
+.social-links svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  fill: currentColor;
+}
+
+
+/* ========================================
+   Responsive layout
+   ======================================== */
+
+@media screen and (max-width: 720px) {
+  header img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .social-links {
+    gap: 8px;
+  }
+
+  .social-links a {
+    padding: 7px 9px;
+    font-size: 13px;
+  }
 }
