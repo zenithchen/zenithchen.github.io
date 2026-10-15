@@ -16,6 +16,22 @@ This project investigates how vision-language models can transform long, untrimm
   style="width: 600px; max-width: 100%; height: auto;">
 
 ---
+### SkinSense: AI-Assisted Skin Lesion Documentation and Tracking
+
+<div class="project-tags">
+  <span class="project-tag">Computer Vision</span>
+  <span class="project-tag">SAM</span>
+  <span class="project-tag">MedGemma</span>
+  <span class="project-tag">React + FastAPI</span>
+</div>
+
+We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting and tracking skin lesions over time. It organizes images, symptoms, and visible changes into longitudinal records that support communication with healthcare professionals. The system combines computer vision–based lesion segmentation and measurement with multimodal AI to generate consistent, non-diagnostic visual descriptions. 
+
+<img src="images/skinsense_analysis_result.png?raw=true"/>
+
+[View Report](/content/SkinSense_Final_Report.pdf)
+
+---
 ###  Urban Informal Settlement Detection 
 
 <div class="project-tags">
@@ -32,22 +48,6 @@ We developed a machine-learning framework that combines Sentinel-2 imagery with 
 [View Report](/content/Detecting_Urban_Informal_Settlements_with_RS.pdf)
 
 ---
-### SkinSense: AI-Assisted Skin Lesion Documentation and Tracking
-
-<div class="project-tags">
-  <span class="project-tag">Computer Vision</span>
-  <span class="project-tag">SAM</span>
-  <span class="project-tag">MedGemma</span>
-  <span class="project-tag">React + FastAPI</span>
-</div>
-
-We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting and tracking skin lesions over time. It organizes images, symptoms, and visible changes into longitudinal records that support communication with healthcare professionals. The system combines computer vision–based lesion segmentation and measurement with multimodal AI to generate consistent, non-diagnostic visual descriptions. 
-
-<img src="images/mode-share-app2.png?raw=true"/>
-
-[View Report](/content/SkinSense_Final_Report.pdf)
-
----
 ### Fire Response Situational Awareness Platform
 
 <div class="project-tags">
@@ -56,7 +56,7 @@ We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting a
   <span class="project-tag">Geospatial Data</span>
 </div>
 
-The project is intended to present the methodology for analyzing property fire risk in Philadelphia and an API tool that aims to improve the fire department’s situational awareness. This new API tool can provide real-time information and assessments for all parcels in the city. We also built a web application using the API. [Click here to check out the app!](/cpln692_final/index.html)
+We developed a citywide fire-risk assessment API to support situational awareness for the Philadelphia Fire Department. The system combines machine learning–based risk modeling with geospatial data integration to provide on-demand parcel information and fire-risk assessments through an interactive web application. [Click here to check out the app!](/cpln692_final/index.html)
 
 <img src="images/fire_api.png?raw=true"/>
 
@@ -71,12 +71,11 @@ The project is intended to present the methodology for analyzing property fire r
   <span class="project-tag">Geospatial Data</span>
 </div>
 
-In this project, we built multinomial logit models to spatially predict the occupancy levels of Belgian. Specifically, the spatial network of the trains was analyzed to select the OD pairs and train lines with certain characteristics of occupancy levels to increase accuracy while ensuring generalizability. Cost-benefit analysis was used to adjust the model. 
-The final model has a relatively high total accuracy of 0.8 and a satisfying generalizability.
+We developed a spatial train-occupancy prediction framework for Belgium’s rail network. The system combines multinomial logistic regression, rail-network analysis, and cost–benefit evaluation to forecast occupancy levels and support service-planning decisions, achieving 80% overall accuracy. 
 
 <img src="images/EA-spatial network.png?raw=true"/>
 
-We also designed a website called SmartOccupancy with 3 main functions to help transportation planners rebalance train service provision and maximize profit. <a href="https://www.youtube.com/watch?v=i8b7DR42uhw">Check out the video here</a>
+We also designed SmartOccupancy, a web-based decision-support tool for identifying capacity imbalances and evaluating service adjustments. <a href="https://www.youtube.com/watch?v=i8b7DR42uhw">Watch the project video</a>
 
 <img src="images/trainoccupancy.png?raw=true"/>
 
