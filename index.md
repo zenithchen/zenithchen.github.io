@@ -11,7 +11,7 @@
 This project investigates how vision-language models can transform long, untrimmed egocentric cooking videos into structured representations of cooking processes. I developed a VLM-based evaluation pipeline for fine-grained action recognition, while ongoing research links action sequences with object identity, location, and physical state to study causal provenance and refine uncertain predictions. 
 
 <img
-  src="{{ '/images/egocentric_cooking_video.gif' | relative_url }}"
+  src="images/egocentric_cooking_video.gif"
   alt="Egocentric cooking video analysis"
   style="width: 600px; max-width: 100%; height: auto;">
 
