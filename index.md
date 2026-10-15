@@ -43,9 +43,9 @@ We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting a
 
 We developed a machine-learning framework that combines Sentinel-2 imagery with multi-scale spectral, textural, and structural features to map urban informal settlements across Guangzhou. The best-performing model achieved 93% overall accuracy, demonstrating a scalable approach to large-area urban analysis. 
 
-<img src="images/mode-share-app2.png?raw=true"/>
+<img src="images/UIS_Project_Picutre.png?raw=true"/>
 
-[View Report](/content/Detecting Urban Informal Settlements with Remote Sensing_Final.pdf)
+[View Report](/content/Detecting_Urban_Informal_Settlements_with_RS.pdf)
 
 ---
 ### Fire Response Situational Awareness Platform
