@@ -56,7 +56,7 @@ We developed a machine-learning framework that combines Sentinel-2 imagery with 
   <span class="project-tag">Geospatial Data</span>
 </div>
 
-We developed a citywide fire-risk assessment API to support situational awareness for the Philadelphia Fire Department. The system combines machine learning–based risk modeling with geospatial data integration to provide on-demand parcel information and fire-risk assessments through an interactive web application. [Click here to check out the app!](/cpln692_final/index.html)
+We developed a citywide fire-risk assessment API to support situational awareness for the Philadelphia Fire Department. The system combines machine learning–based risk modeling with geospatial data integration to provide on-demand parcel information and fire-risk assessments through an interactive web application. 
 
 <img src="images/fire_api.png?raw=true"/>
 
@@ -80,6 +80,7 @@ We also designed SmartOccupancy, a web-based decision-support tool for identifyi
 <img src="images/trainoccupancy.png?raw=true"/>
 
 [View Code](/content/occupancy_prediction.html)
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
