@@ -16,22 +16,6 @@ This project investigates how vision-language models can transform long, untrimm
   style="width: 600px; max-width: 100%; height: auto;">
 
 ---
-### SkinSense: AI-Assisted Skin Lesion Documentation and Tracking
-
-<div class="project-tags">
-  <span class="project-tag">Computer Vision</span>
-  <span class="project-tag">SAM</span>
-  <span class="project-tag">MedGemma</span>
-  <span class="project-tag">React + FastAPI</span>
-</div>
-
-We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting and tracking skin lesions over time. It organizes images, symptoms, and visible changes into longitudinal records that support communication with healthcare professionals. The system combines computer vision–based lesion segmentation and measurement with multimodal AI to generate consistent, non-diagnostic visual descriptions. 
-
-<img src="images/mode-share-app2.png?raw=true"/>
-
-[View Report](/content/SkinSense_Final_Report.pdf)
-
----
 ###  Urban Informal Settlement Detection 
 
 <div class="project-tags">
@@ -46,6 +30,22 @@ We developed a machine-learning framework that combines Sentinel-2 imagery with 
 <img src="images/UIS_Project_Picutre.png?raw=true"/>
 
 [View Report](/content/Detecting_Urban_Informal_Settlements_with_RS.pdf)
+
+---
+### SkinSense: AI-Assisted Skin Lesion Documentation and Tracking
+
+<div class="project-tags">
+  <span class="project-tag">Computer Vision</span>
+  <span class="project-tag">SAM</span>
+  <span class="project-tag">MedGemma</span>
+  <span class="project-tag">React + FastAPI</span>
+</div>
+
+We developed SkinSense, a non-diagnostic, AI-assisted platform for documenting and tracking skin lesions over time. It organizes images, symptoms, and visible changes into longitudinal records that support communication with healthcare professionals. The system combines computer vision–based lesion segmentation and measurement with multimodal AI to generate consistent, non-diagnostic visual descriptions. 
+
+<img src="images/mode-share-app2.png?raw=true"/>
+
+[View Report](/content/SkinSense_Final_Report.pdf)
 
 ---
 ### Fire Response Situational Awareness Platform
